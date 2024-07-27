@@ -11,7 +11,7 @@
  <img src="https://github.com/jodiechang/jodiechang/assets/137368915/fa256886-ae57-4b64-9536-4d3a2da5cd87" width="40" height="40" alt="image"><img src="https://github.com/jodiechang/jodiechang/assets/137368915/225b7ed5-9124-45d8-b19c-ffab4d23b062" width="40" height="40" alt="image"><img src="https://github.com/jodiechang/jodiechang/assets/137368915/71ed93f2-7454-4d61-aa2d-4de229b9fc32" width="40" height="40" alt="40">
 
 ## Technical skills
-- Analytical Methods: Data cleaning, Cohort analysis, Retention analysis, Churn analysis, Funnel Analysis, - Customer segmentation analysis, RFM & CLV.
+- Analytical Methods: Data cleaning, Cohort analysis, Retention analysis, Churn analysis, Funnel Analysis, Customer segmentation analysis, RFM & CLV.
 - Statistics/Machine Learning: A/B testing, Linear regression, Logistic regression.
 - Domain Knowledge: Product Analytics, Marketing Analytics.
 
