@@ -4,7 +4,7 @@
 ## About me
 - ⚡ A data analyst with a passion for making an impact through data-driven decisions.
 - 🌵 Based in Phoenix, Arizona.
-- ✍️ Currently learning Python, PowerBI and golf.
+- ✍️ Currently learning Python, Power BI and golf.
 - 🍟 Fun fact: I eat french fries without ketchup.
 
 ## Tools I use
